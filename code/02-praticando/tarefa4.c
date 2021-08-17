@@ -7,6 +7,9 @@
 #include <stdio.h>
 
 // TODO: declare função modulo aqui. Veja abaixo como ela será usada
+int modulo(double n){
+    return abs(n);
+}
 
 
 int main() {
