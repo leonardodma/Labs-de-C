@@ -1,0 +1,23 @@
+Digite um número: 
+Digite um segundo número: 
+O número 10 não é divisível por 15 
+
+Digite um número: 
+Digite um segundo número: 
+O número 12 não é divisível por 13 
+
+Digite um número: 
+Digite um segundo número: 
+O número 20 não é divisível por 70 
+
+Digite um número: 
+Digite um segundo número: 
+O número 35 não é divisível por 45 
+
+Digite um número: 
+Digite um segundo número: 
+O número 80 não é divisível por 22 
+
+Digite um número: 
+Digite um segundo número: 
+FIM

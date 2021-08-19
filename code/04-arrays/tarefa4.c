@@ -7,6 +7,32 @@
 #include <stdio.h>
 
 /* TODO: implemente sua função conta_1 aqui */
+int len(char str[])
+{
+    int n = 0;
+    while (str[n] != '\0')
+    {
+        n++;
+    }
+
+    return n;
+}
+
+int conta_1(char str[])
+{
+    int lenString = len(str);
+    int qtd_1 = 0;
+
+    for (int i = 0; i < lenString; i++)
+    {
+        if (str[i] == '1')
+        {
+            qtd_1++;
+        }
+    }
+
+    return qtd_1;
+}
 
 
 int main() {
